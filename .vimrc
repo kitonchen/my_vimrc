@@ -1,5 +1,6 @@
 "加载vundle的操作
 set nocompatible
+
 filetype off
 "使用VUNDLE管理插件:
 set rtp+=~/.vim/bundle/vundle
